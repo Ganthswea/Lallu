@@ -1,9 +1,9 @@
 <h2 align="center">
-    ──「 ᴀɴᴏɴ ダ ᴍᴜsɪᴄ 」──
+    ──「 𝐌ᴇɢᴀᴛʀᴏɴ 」──
 </h2>
 
 <p align="center">
-  <img src="https://telegra.ph/file/56d1760224589ee370186.jpg">
+  <img src="https://telegra.ph/file/8cf52c7fc95d8f58d7926.jpg">
 </p>
 
 <p align="center">
@@ -14,21 +14,21 @@
 <a href="https://github.com/AnonymousX1025/AnonXMusic/commits/AnonymousX1025"> <img src="https://img.shields.io/github/last-commit/AnonymousX1025/AnonXMusic?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
 </p>
 
-<p align="center">
-  <img src="https://telegra.ph/file/36be820a8775f0bfc773e.jpg">
-</p>
+
+
+
 
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/AnonymousX1025/AnonXMusic"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/AnonymousX1025/AnonXMusic"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-brown?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
 </h3>
 
-- Get your [Necessary Variables](https://github.com/AnonymousX1025/AnonXMusic/blob/master/sample.env)
+- Get your [𝐓ʜᴇ 𝐁σ𝚂𝚂](https://t.me/rowdybio01)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Install Ffmpeg by :
@@ -61,11 +61,11 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 </h3>
 
 <p align="center">
-<a href="https://telegram.me/DevilsHeavenMF"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/tamilchats_makkal"><img src="https://img.shields.io/badge/-main%20Group-blueviolet.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
-<a href="https://telegram.me/FallenAssociation"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/cybertorn_tmc"><img src="https://img.shields.io/badge/-Support%20Group-blueviolet.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <h3 align="center">
