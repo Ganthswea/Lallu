@@ -41,7 +41,7 @@ def private_panel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
         ],
         [
             InlineKeyboardButton(
-                text="❣ sᴜᴩᴩᴏʀᴛ ❣", url=config.SUPPORT_GROUP
+                text="❣ 𝗦ᴜᴩᴩᴏʀᴛ ❣", url=config.SUPPORT_GROUP
             ),
             InlineKeyboardButton(
                 text="🥀 𝐓нє 𝐌αкєя 🥀", user_id=OWNER
@@ -49,7 +49,7 @@ def private_panel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
         ],
         [
             InlineKeyboardButton(
-                text="✨ sᴏᴜʀᴄᴇ ✨", url=f"https://telegra.ph/file/2fbdd0f72a7791d23b83a.jpg"
+                text="✨ 𝗦ᴜᴩᴩᴏʀᴛ ✨", url=f"https://telegra.ph/file/2fbdd0f72a7791d23b83a.jpg"
             )
         ],
      ]
