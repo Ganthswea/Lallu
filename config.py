@@ -25,8 +25,8 @@ UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/Ganthswea/Lallu")
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/tamilchats_makkal")
-SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/cybertorn_tmc")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Team_Remo")
+SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/tamilchats_makkal")
 
 SUPPORT_HEHE = SUPPORT_GROUP.split("me/")[1]
 
