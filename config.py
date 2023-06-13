@@ -83,27 +83,27 @@ PING_IMG_URL = getenv(
     "https://graph.org/file/9597129a63721becf83ec.jpg",
 )
 
-PLAYLIST_IMG_URL = "https://graph.org/file/9597129a63721becf83ec.jpg"
+PLAYLIST_IMG_URL = "https://telegra.ph/file/d763f61a19b1c524d0d6f.mp4"
 
-GLOBAL_IMG_URL = "https://graph.org/file/9597129a63721becf83ec.jpg"
+GLOBAL_IMG_URL = "https://telegra.ph/file/d763f61a19b1c524d0d6f.mp4"
 
-STATS_IMG_URL = "https://graph.org/file/9597129a63721becf83ec.jpg"
+STATS_IMG_URL = "https://telegra.ph/file/d763f61a19b1c524d0d6f.mp4"
 
-TELEGRAM_AUDIO_URL = "https://graph.org/file/9597129a63721becf83ec.jpg"
+TELEGRAM_AUDIO_URL = "https://telegra.ph/file/d763f61a19b1c524d0d6f.mp4"
 
-TELEGRAM_VIDEO_URL = "https://graph.org/file/9597129a63721becf83ec.jpg"
+TELEGRAM_VIDEO_URL = "https://telegra.ph/file/d763f61a19b1c524d0d6f.mp4"
 
-STREAM_IMG_URL = "https://graph.org/file/9597129a63721becf83ec.jpg"
+STREAM_IMG_URL = "https://telegra.ph/file/d763f61a19b1c524d0d6f.mp4"
 
-SOUNCLOUD_IMG_URL = "https://graph.org/file/9597129a63721becf83ec.jpg"
+SOUNCLOUD_IMG_URL = "https://telegra.ph/file/d763f61a19b1c524d0d6f.mp4"
 
-YOUTUBE_IMG_URL = "https://graph.org/file/9597129a63721becf83ec.jpg"
+YOUTUBE_IMG_URL = "https://telegra.ph/file/d763f61a19b1c524d0d6f.mp4"
 
-SPOTIFY_ARTIST_IMG_URL = "https://graph.org/file/9597129a63721becf83ec.jpg"
+SPOTIFY_ARTIST_IMG_URL = "https://telegra.ph/file/d763f61a19b1c524d0d6f.mp4"
 
-SPOTIFY_ALBUM_IMG_URL = "https://graph.org/file/9597129a63721becf83ec.jpg"
+SPOTIFY_ALBUM_IMG_URL = "https://telegra.ph/file/d763f61a19b1c524d0d6f.mp4"
 
-SPOTIFY_PLAYLIST_IMG_URL = "https://graph.org/file/9597129a63721becf83ec.jpg"
+SPOTIFY_PLAYLIST_IMG_URL = "https://telegra.ph/file/d763f61a19b1c524d0d6f.mp4"
 
 
 def time_to_seconds(time):
@@ -130,9 +130,9 @@ if UPSTREAM_REPO:
 if PING_IMG_URL:
     if PING_IMG_URL != "assets/Ping.jpeg":
         if not re.match("(?:http|https)://", PING_IMG_URL):
-            PING_IMG_URL = "https://graph.org/file/9597129a63721becf83ec.jpg"
+            PING_IMG_URL = "https://telegra.ph/file/d763f61a19b1c524d0d6f.mp4"
 
 if START_IMG_URL:
     if START_IMG_URL != "assets/Ping.jpeg":
         if not re.match("(?:http|https)://", START_IMG_URL):
-            START_IMG_URL = "https://graph.org/file/9597129a63721becf83ec.jpg"
+            START_IMG_URL = "https://telegra.ph/file/d763f61a19b1c524d0d6f.mp4"
