@@ -99,6 +99,10 @@ async def userdel(client, message: Message, _):
 @app.on_message(filters.command(SUDOUSERS_COMMAND) & ~BANNED_USERS)
 @language
 async def sudoers_list(client, message: Message, _):
+    if message.from_user.id not in SUDOERS:
+        return await message.reply_text(
+            "» **⨻ᴏɴʟʏ ᴛᴇᴀᴍ ʀᴇᴍᴏ ᴅᴏ ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ👨‍💻\n➻ʙᴇᴛᴛᴇʀ sᴜɢɢᴇsᴛɪᴏɴ ғᴏʀ ʏᴏᴜ ᴛᴏ ᴊᴏɪɴ** @Remo_Support"
+        )
     text = _["sudo_5"]
     count = 0
     for x in OWNER_ID:
