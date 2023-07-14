@@ -1,11 +1,14 @@
 <h2 align="center">
     ──「 𝐌ᴇɢᴀᴛʀᴏɴ 」──
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </h2>
 
 <p align="center">
   <img src="https://telegra.ph/file/8cf52c7fc95d8f58d7926.jpg">
 </p>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center">
 <a href="https://github.com/AnonymousX1025/AnonXMusic/stargazers"><img src="https://img.shields.io/github/stars/AnonymousX1025/AnonXMusic?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
 <a href="https://github.com/AnonymousX1025/AnonXMusic/network/members"> <img src="https://img.shields.io/github/forks/AnonymousX1025/AnonXMusic?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
